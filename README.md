@@ -1,3 +1,3 @@
 # Kickstarter-Prelude
 
-A description of this package.
+All code comes from [Kickstarter-Prelude](https://github.com/kickstarter/Kickstarter-Prelude). Thanks Kickstarter.
